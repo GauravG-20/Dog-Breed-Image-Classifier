@@ -30,9 +30,9 @@ For command line applications there is an option to select either Alexnet or VGG
 
 Following arguments mandatory or optional for check_images.py 
 
-1. '--dir'. 'Provide data directory of Dog Images.', type = str, default = 'pet_images/'
-2. '--dogfile'. 'Provide data directory of names of dogs,' type = str, default = 'dognames.txt'
-3. '--arch'. 'Alexnet or Resnet can be used if this argument specified, otherwise VGG16 will be used', type = str
+1. `--dir`. 'Provide data directory of Dog Images.', type = str, default = 'pet_images/'   
+2. `--dogfile`. 'Provide data directory of names of dogs,' type = str, default = 'dognames.txt'   
+3. `--arch`. 'Alexnet or Resnet can be used if this argument specified, otherwise VGG16 will be used', type = str      
 
 
 ## Run on windows - 
