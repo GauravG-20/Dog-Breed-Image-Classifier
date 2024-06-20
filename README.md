@@ -1,4 +1,4 @@
-# AI Programming with Python Project. Dog Image Classification using Pytorch models.
+# AI Programming with Python Project. Dog Breed Image Classification using Pytorch models.
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, code was developed for an image classifier built with PyTorch.
 
